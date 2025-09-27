@@ -1,22 +1,36 @@
 4. local_passport_website
    
-Register:
+a. register
 
-Vào postman chọn phươn thức POST và nhập url: http://localhost:3000/register
+Mở trình duyệt web và nhập url: http://localhost:3000/register
 
-<img width="1455" height="929" alt="image" src="https://github.com/user-attachments/assets/3b5950b5-01b4-44ef-a427-c9c0764500d7" />
+Nhập đầy đủ username và password như sau:
 
-Login:
+<img width="410" height="322" alt="image" src="https://github.com/user-attachments/assets/ad46e4a0-f842-4ae5-9f3b-625c0aa93d56" />
 
-Vào postman chọn phươn thức POST và nhập url: http://localhost:3000/login
+Khi đăng ký thành công trang web sẽ chuyển sang chức năng đăng nhập
 
-<img width="1523" height="849" alt="image" src="https://github.com/user-attachments/assets/5df14299-bf54-4087-a8f2-268c298b67ce" />
+b. login
 
-check database:
+Nhập username và password đã register trước đó và chọn login 
 
-<img width="1247" height="986" alt="image" src="https://github.com/user-attachments/assets/ed05c359-fef1-440e-b702-ac68e93e30fe" />
+<img width="589" height="331" alt="image" src="https://github.com/user-attachments/assets/8cfda07b-d07c-42ba-b1e3-fe8b14fdd837" />
 
+Khi đăng nhập thành công giao diện web sẽ chuyển sang chức năng xem hồ sơ 
 
-Logout:
+<img width="595" height="348" alt="image" src="https://github.com/user-attachments/assets/8c1fab23-3ed3-48dc-9583-8f85225711e6" />
 
-<img width="1320" height="929" alt="image" src="https://github.com/user-attachments/assets/130e87a9-824c-4b61-935d-7f559c1947ed" />
+c. profile
+
+<img width="595" height="348" alt="image" src="https://github.com/user-attachments/assets/24f5c49b-b5ac-4bd9-b7af-c2bb2e9f683f" />
+
+d. logout
+
+Trong giao diện profile , chọn logout
+
+<img width="690" height="190" alt="image" src="https://github.com/user-attachments/assets/b8f003a7-46a9-4c45-b6b0-acc5d83a7257" />
+
+Sẽ chuyển về giao diện login
+
+<img width="577" height="287" alt="image" src="https://github.com/user-attachments/assets/dc582058-a6f3-4187-a1ed-31f21ce63cf5" />
+
